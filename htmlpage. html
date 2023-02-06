@@ -10,7 +10,8 @@
 
   <body>
 
-    <h1>My Images(Rahulraj)</h1>
+    <h1>My Images(Rahulraj)
+    lavade</h1>
 
     <p>   My favorite actors  in hollywood
 
@@ -23,6 +24,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUcR0SHYCtfhn0DK0VCnmYvEuMVZ6l4qPodg&usqp=CAU" length=50% width=70% alt="Image 3">
 
   </body>
+  
 
 </html>
 
